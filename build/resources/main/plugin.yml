@@ -1,4 +1,0 @@
-name: Ndupe
-version: '1.0-SNAPSHOT'
-main: paper.plugin.ndupe.Ndupe
-api-version: '1.21'
